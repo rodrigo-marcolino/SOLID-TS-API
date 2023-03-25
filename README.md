@@ -4,7 +4,7 @@ This repository is intended to practice creating an API with a well-defined and 
 
 
 
-The architecture pattern followed is the Clean Architecture, which aims to distribute responsibilities in layers, making the code more scalable and maintainable. Additionally, we will always follow the SOLID principles and, whenever possible, apply design patterns to solve some common problems.
+The architecture pattern followed is the Clean Architecture, which aims to distribute responsibilities in layers, making the code more scalable and maintainable. Additionally, I'll follow the SOLID principles and, whenever possible, apply design patterns to solve some common problems.
 
 ## Technologies
 
