@@ -1,4 +1,6 @@
 import { SignUpController } from './signup'
+import {  } from "../erros/missin";
+
 describe('SignUp Controler', () => {
   test('Should return 400 if no name is provided', () => {
     const sut = new SignUpController()
